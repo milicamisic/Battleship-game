@@ -22,7 +22,7 @@ public class BattleshipGame {
 				play();
 				
 				System.out.println("Do you want to exit? (type yes or no): ");
-				/*
+				
 				String exit = scan.nextLine();
 				
 				if(exit.equals("yes")) {
@@ -30,7 +30,7 @@ public class BattleshipGame {
 					break;
 				} else {
 					continue;
-				}*/
+			
 				
 				
 			} else {
