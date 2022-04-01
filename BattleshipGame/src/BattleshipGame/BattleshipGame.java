@@ -30,7 +30,7 @@ public class BattleshipGame {
 					break;
 				} else {
 					continue;
-			
+				}	
 				
 				
 			} else {
