@@ -46,7 +46,6 @@ public class BattleshipGame {
 		
 		System.out.print("Write game board dimensions in the form width,height: ");
 		String dimensions = ayy.nextLine();
-		ayy.close();
 		String [] wAh = dimensions.split(",");
 		int width = Integer.parseInt(wAh[0]);
 		int height =  Integer.parseInt(wAh[1]);
